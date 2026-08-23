@@ -1,0 +1,52 @@
+// Project Super Stellar Language Configs (Korean) //
+
+// Settings //
+st_title: "설정"
+
+// Mask Offset
+st_mask_offset: "마스크 오프셋"
+st_mask_offset_desc: "얼굴 마스크의 Y 위치를 조정합니다."
+
+// Mask Transparency
+st_mask_transparency: "마스크 투명도"
+st_mask_transparency_desc: "얼굴 마스크의 투명도를 조정합니다."
+
+// Custom Hair
+st_custom_hair: "커스텀 헤어"
+st_custom_hair_desc: "변신 시 커스텀 헤어를 적용합니다."
+
+// Custom Face
+st_custom_face: "커스텀 얼굴"
+st_custom_face_desc: "변신 시 커스텀 얼굴을 적용합니다."
+
+// Hair Dye
+st_hair_dye: "헤어 색상"
+st_hair_dye_desc: "변신 할 때 헤어 색상을 적용 여부를 설정합니다."
+
+// Butterfly Cutscene
+st_butterfly_cutscene: "나비 컷신"
+st_butterfly_cutscene_desc: "빌런화/영웅화 시 컷신을 재생 여부를 설정합니다."
+
+// Body Type
+st_body_type: "체형"
+st_body_type_desc: "체형을 남성/여성으로 설정합니다."
+
+// Soundtracks
+st_soundtracks: "음악"
+st_soundtracks_desc: "빌런화/영웅화된 사람에게서 나오는 음악 여부를 설정합니다."
+
+// Environment Sounds
+st_environment_sounds: "환경음"
+st_environment_sounds_desc: "환경음 재생 여부를 설정합니다."
+
+// Subtitles
+st_subtitles: "자막"
+st_subtitles_desc: "대사 자막 표시 여부를 설정합니다."
+
+// Special Tags
+st_special_tags: "특수 태그"
+st_special_tags_desc: "채팅에 특수 태그 표시 여부를 설정합니다."
+
+// Voiceline Dubs
+st_voiceline_dubs: "음성 더빙"
+st_voiceline_dubs_desc: "음성 더빙 언어를 설정합니다."

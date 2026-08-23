@@ -1,0 +1,38 @@
+// Project Super Stellar Language Configs (Korean) //
+
+/* akuma: "검은 나비"
+kamiko: "하얀 나비"
+megakuma: "메가 나비"
+ultrakuma: "울트라 나비" */
+
+// Cutscene //
+
+// Akumatization of Chrysalis
+akuma_chry_line_1: "안녕하세요.. 불쑥 나타나 죄송하지만, 많이 상심한게 느껴졌어요." // "Hello.. Forgive my intrusion, but I seem to sense a considerable frustration."
+akuma_chry_line_2: "남들이 서로 싸우고, 명령하는게 지겹지 않나요?" // "You've had enough of people fighting and making decisions for other people, haven't you?"
+akuma_chry_line_3: "이제 당신은 주도권을 잡는 거에요.." // "I know what would be fitting for you.. to finally be in charge.."
+akuma_chry_line_4: "내가 힘을 줄 수 있어요, 물론 당신이 원해야겠죠." // "I can give you this power, only if you agree of course."
+akuma_chry_line_5: "어떠세요..?" // "What do you think..?"
+
+akuma_chry_accept: "당신을 뭐라고 부를까요?" // "And what should I call you?"
+
+// Kamikozation
+kamiko_line_1: "불쑥 찾아와서 미안하네, 난 {username}이다"
+kamiko_line_2: "난 오직 대의를 위해 싸운다.. 너 처럼!"
+kamiko_p_line_1: "그 말을 어떻게 믿지..? 난 당신을 몰라..!"
+kamiko_line_3: "난 적이 아니야, 너에게 우릴 구할 수 있는 힘을 주려는 거야!"
+kamiko_p_line_2: "난..."
+kamiko_line_4: "이제 넌 큰 책임을 짊어지게 될 것이다!"
+kamiko_line_5: "대의를 위해, 받아들이겠나?"
+
+kamiko_accept: "좋아!"
+
+// Kamikozation CelestiCat
+kamiko_cc_line_1: "셀래스트 캣, 난 {username}이다"
+kamiko_cc_p_line_1: "허!?"
+kamiko_cc_line_2: "난 적이 아니야, 너에게 우릴 구할 수 있는 힘을 주려는 거야!"
+kamiko_cc_p_line_2: "그 말을 어떻게 믿지..? 난 당신을 몰라..!"
+kamiko_cc_line_3: "난 오직 대의를 위해 싸운다, 셀래스트 캣 너 처럼.."
+kamiko_cc_p_line_3: "난..."
+kamiko_cc_line_4: "자, 이제 대의를 위한 선물을 받아들이겠는가?"
+kamiko_cc_p_line_4: "그래 좋아!"
