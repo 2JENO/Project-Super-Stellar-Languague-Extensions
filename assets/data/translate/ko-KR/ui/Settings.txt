@@ -36,7 +36,7 @@ st_body_type_female: "여성"
 
 // Soundtracks
 st_soundtracks: "음악"
-st_soundtracks_desc: "빌런화/영웅화된 사람에게서 나오는 음악 여부를 설정합니다."
+st_soundtracks_desc: "빌런화/영웅화 된 사람에게서 나오는 음악 여부를 설정합니다."
 
 // Environment Sounds
 st_environment_sounds: "환경음"
