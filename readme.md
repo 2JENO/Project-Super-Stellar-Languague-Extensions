@@ -1,6 +1,6 @@
 # Project Super Stellar 언어 확장 패키지
 
-[![Project Super Stellar](https://www.roblox.com/games/86524001536792/Project-Superstellar)](https://www.roblox.com/games/86524001536792/Project-Superstellar)
+[Project Super Stellar](https://www.roblox.com/games/86524001536792/Project-Superstellar)
 
 이 폴더에는 게임의 언어 설정 파일이 있습니다.
 각 언어별로 폴더가 분리되어 있습니다.
