@@ -1,0 +1,10 @@
+// Shop //
+
+// Constants
+shop: "상점"
+shop_purchase: "구매"
+shop_owned: "구매 완료"
+
+// Shop Title
+shop_title: "게임 패스 상점"
+shop_subtitle: "구매 후 재입장 해 주세요. 문제가 발생하면 개발자에게 문의 해 주세요."

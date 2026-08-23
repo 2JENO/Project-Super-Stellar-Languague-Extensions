@@ -1,0 +1,3 @@
+// Update Log //
+update_log: "업데이트 로그"
+update_log_title: "업데이트 로그"
