@@ -1,5 +1,3 @@
-// Project Super Stellar Language Configs (Korean) //
-
 // Settings //
 st_title: "설정"
 

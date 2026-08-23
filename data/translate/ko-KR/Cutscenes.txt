@@ -1,9 +1,7 @@
-// Project Super Stellar Language Configs (Korean) //
-
-/* akuma: "검은 나비"
+akuma: "검은 나비"
 kamiko: "하얀 나비"
 megakuma: "메가 나비"
-ultrakuma: "울트라 나비" */
+ultrakuma: "울트라 나비"
 
 // Cutscene //
 
