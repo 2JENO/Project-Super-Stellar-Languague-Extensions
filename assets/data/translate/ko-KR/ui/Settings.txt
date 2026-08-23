@@ -1,16 +1,3 @@
-// Kwami Menu //
-kwami_show_toggle: "콰미 표시/숨기기"
-kwami_freeze_toggle: "콰미 정지/재개"
-
-// Update Log //
-update_log: "업데이트 로그"
-
-// Emotes //
-emotes: "이모티콘"
-em_hug: "안기"
-em_pound_it: "주먹 맞대기"
-em_sit_together: "함께 앉기"
-
 // Settings //
 st_title: "설정"
 st_enable: "활성화"
@@ -74,7 +61,3 @@ st_lowest_graphics_desc: "게임 그래픽을 최저로 설정합니다."
 // Upgraded Powers
 st_upgraded_powers: "업그레이드된 파워"
 st_upgraded_powers_desc: "게임 패스 소지 시 업그레이드된 파워 사용 여부를 설정합니다."
-
-// Shop //
-shop: "상점"
-shop_title: "게임 패스 상점"

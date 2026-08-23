@@ -1,0 +1,5 @@
+// Emotes //
+emotes: "이모티콘"
+em_hug: "안기"
+em_pound_it: "주먹 맞대기"
+em_sit_together: "함께 앉기"
