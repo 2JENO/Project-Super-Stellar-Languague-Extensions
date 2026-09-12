@@ -60,4 +60,4 @@ st_lowest_graphics_desc: "게임 그래픽을 최저로 설정합니다."
 
 // Upgraded Powers
 st_upgraded_powers: "업그레이드 된 파워"
-st_upgraded_powers_desc: "게임 패스 소지 시 업그레이드된 파워 사용 여부를 설정합니다."
+st_upgraded_powers_desc: "게임 패스 소지 시 업그레이드 된 파워 사용 여부를 설정합니다."
