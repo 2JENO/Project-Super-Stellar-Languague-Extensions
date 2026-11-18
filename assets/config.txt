@@ -1,2 +1,2 @@
 // Project Super Stellar Language Configs (Korean) //
-languages: "ko-KR"
+languages: ["ko-KR", "en-US", "fr-FR"]
